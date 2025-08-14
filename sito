@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Prima versione del sito"
+git branch -M main
+git remote add origin https://github.com/nightpxrple/pierpaolo-aprea.git 
+git push -u origin main
